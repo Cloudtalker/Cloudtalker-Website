@@ -1,0 +1,14 @@
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+}
+
+.nav {
+  background-color: #ffd900;
+  padding: 10px;
+}
+
+a {
+  color: black;
+  text-shadow: 2px 2px 5px black;
+}
