@@ -15,6 +15,11 @@ body {
 	border-bottom: 10px solid #444;
 }
 
+.nav img {
+    width: auto;
+    height: 70px;
+}
+
 @media only screen and (min-width: 900px) {
   .nav {
 		display: flex;
